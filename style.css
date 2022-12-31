@@ -1,4 +1,14 @@
-   .container {
+/*https://note.com/skipla/n/n4f93a621c5d4*/
+
+.container {
      width: 60%;
      margin: 30px auto;
    }
+   
+   
+/* チャットの表示領域はスクロール可能にする */
+.chat-area {
+  height: 80vh;
+  background: #8DB4E5;
+  overflow: scroll
+}
